@@ -4,7 +4,7 @@ This repository is meant to be a temporary collection of code, before it is move
 
 ## Instructions for Siemen, July, 2024
 
-Given: _two random variables $X_1$ and $X_2$, each of which has a marginal distribution $F_{X_1}$ and $F_{X_2}$ and a dependence structure defined by a Copula with parameter ??=?? (parameter(s) depends on Copula)._
+Given: two random variables $X_1$ and $X_2$, each of which has a marginal distribution $F_{X_1}$ and $F_{X_2}$ and a dependence structure defined by a Copula with parameter ??=?? (parameter(s) depends on Copula).
 
 We are then able to:
 - write out mathematicall as much of the bivariate distribution $F_{X_1,X_2}$ and related objects as possible
